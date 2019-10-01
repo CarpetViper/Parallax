@@ -1,0 +1,106 @@
+html {
+	height: 1500px;
+  font-size: 0;
+	}
+
+body {
+  font-size: 16px;
+}
+
+h1 {
+	top: 75px;
+	margin-top: -3rem;
+	z-index: 5;
+}
+
+html {
+	background: gray;
+	background-attachment: fixed;
+	background-size: cover;
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.5;
+	color: #fff;
+}
+
+h1 {
+  width: 100%;
+  font: 3em/1 'Oswald', sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 3px 3px 20px rgba(0, 0, 0, 0.5);
+}
+
+p {
+  margin: 0 0 1.5em;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+img {
+	width: 20%;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
+
+.parallax {
+	position: fixed;
+	}
+
+.box {
+	top: -1400px;
+	margin-top: 29rem;
+  left: 50%;
+  margin-left: -27%;
+	padding: 2%;
+	width: 50%;
+}
+
+.btn {
+  top: 5em;
+  right: -800px;
+  margin-right: 18.5rem;
+}
+
+.pic_1 {
+	top: 240px;
+	margin-top: -28rem;
+	left: 8%;
+}
+
+.pic_2 {
+	top: 320px;
+	margin-top: -55rem;
+	left: 24%;
+}
+
+.pic_3 {
+	top: 200px;
+	margin-top: -20rem;
+	left: 40%;
+	z-index: 10;
+}
+
+.pic_4 {
+	top: 260px;
+	margin-top: -33rem;
+	left: 72%;
+}
+
+.pic_5 {
+	top: 360px;
+	margin-top: -47rem;
+	left: 56%;
+}
+
+.box {
+	background-color: rgba(255, 255, 255, 0.1);
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.5em 1em;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-bottom: 0;
+}
